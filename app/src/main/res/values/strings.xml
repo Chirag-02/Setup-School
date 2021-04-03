@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Setup School</string>
+    <string name="add_student">Add student</string>
+    <string name="add_teacher">Add teacher</string>
+    <string name="students">Students</string>
+    <string name="teachers">Teachers</string>
+    <string name="no_students_added">No students added yet!</string>
+    <string name="no_teachers_added">No teacher added yet!</string>
+    <string name="roll_number">Roll Number</string>
+    <string name="student_name">Student Name</string>
+    <string name="class_name">Class</string>
+    <string name="section">Section</string>
+    <string name="done">Done</string>
+    <string name="add">add</string>
+    <string name="teacher_name">Teacher name</string>
+    <string name="teacher_id">Teacher Id</string>
+    <string name="subject">Subject</string>
+    <string name="roll_number_placeholder">Roll no: %d</string>
+    <string name="class_placeholder">%s (%s)</string>
+    <string name="teacher_id_placeholder">Teacher Id: %s</string>
+    <string name="subject_placeholder">Subject %s</string>
+
+    <string name="invalid_name">Please enter a valid name</string>
+    <string name="invalid_roll_number">Please enter a valid roll number</string>
+    <string name="invalid_class">Please enter a valid class</string>
+    <string name="invalid_section">Please enter a valid section</string>
+    <string name="invalid_teacher_id">Please enter a valid teacher id</string>
+    <string name="invalid_subject">Please enter a valid subject name</string>
+
+    <string name="student_created_successfully">Student created successfully</string>
+    <string name="student_already_exists">Student with this roll number already exists!</string>
+    <string name="teacher_delete">Deleting Teacher is getting issue!</string>
+    <string name="student_delete">Deleting Student is getting issue!</string>
+    <string name="teacher_already_exists">Teacher with this id already exists!</string>
+    <string name="teacher_created_successfully">Teacher created successfully</string>
+
+</resources>
